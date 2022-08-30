@@ -1,0 +1,107 @@
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Database1.accdb
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Formulario MDI.exe.config
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Formulario MDI.exe
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Formulario MDI.pdb
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.csproj.AssemblyReference.cache
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.AboutBox1.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form1.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form10.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form11.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form6.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form3.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form4.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.form5.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form7.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form8.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.form9.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Properties.Resources.resources
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.csproj.GenerateResource.cache
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.csproj.CoreCompileInputs.cache
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.exe
+C:\Users\Emilio Reyes\Desktop\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.pdb
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Formulario MDI.exe.config
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Formulario MDI.exe
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Formulario MDI.pdb
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.csproj.AssemblyReference.cache
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.AboutBox1.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form1.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form10.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form11.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form6.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form3.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form4.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form7.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form8.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.form9.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Properties.Resources.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.csproj.GenerateResource.cache
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.csproj.CoreCompileInputs.cache
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.exe
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.pdb
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form12.resources
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form13.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Formulario MDI.exe.config
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Formulario MDI.exe
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\bin\Debug\Formulario MDI.pdb
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.csproj.AssemblyReference.cache
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.AboutBox1.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form1.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form10.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form11.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form12.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form13.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form6.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form3.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form4.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form7.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form8.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.form9.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Properties.Resources.resources
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.csproj.GenerateResource.cache
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.csproj.CoreCompileInputs.cache
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.exe
+C:\Users\Emilio Reyes\Desktop\PROGRAMACIONr\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario MDI.pdb
+C:\Users\manch\OneDrive\Escritorio\Grupo-6-semana-5-Formulario-MDI-master\Formulario MDI\obj\Debug\Formulario_MDI.Form14.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\bin\Debug\Formulario MDI.exe.config
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\bin\Debug\Formulario MDI.exe
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\bin\Debug\Formulario MDI.pdb
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.csproj.AssemblyReference.cache
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.AboutBox1.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form1.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form10.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form11.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form12.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form13.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form14.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form6.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form3.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form4.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form7.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form8.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.form9.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Properties.Resources.resources
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.csproj.GenerateResource.cache
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.csproj.CoreCompileInputs.cache
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.exe
+C:\Users\manch\OneDrive\Escritorio\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.pdb
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\bin\Debug\Formulario MDI.exe.config
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\bin\Debug\Formulario MDI.exe
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\bin\Debug\Formulario MDI.pdb
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.csproj.AssemblyReference.cache
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.csproj.SuggestedBindingRedirects.cache
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form1.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form10.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form11.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form12.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form13.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form14.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form6.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form3.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form4.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Form7.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.form9.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario_MDI.Properties.Resources.resources
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.csproj.GenerateResource.cache
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.csproj.CoreCompileInputs.cache
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.exe
+C:\Users\joser\Desktop\FORMULARIO MDI\Formulario MDI\obj\Debug\Formulario MDI.pdb
